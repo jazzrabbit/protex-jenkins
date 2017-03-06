@@ -9,7 +9,7 @@ The protex-jenkins plugin allows the User to run scans during a Jenkins Build as
 ## Where can I get the latest release? ##
 You can download the latest source from GitHub: https://github.com/blackducksoftware/protex-jenkins. 
 
-You can download the latest release from GitHub.
+You can download the latest release from GitHub: https://github.com/blackducksoftware/protex-jenkins/releases.
 
 ## Documentation ##
 All documentation for protex-jenkins can be found in project:  https://github.com/blackducksoftware/protex-jenkins/wiki
